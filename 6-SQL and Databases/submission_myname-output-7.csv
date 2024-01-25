@@ -1,0 +1,5 @@
+quarter_number,current_quarter_revenue,previous_quarter_revenue,qoq_percentage_change
+1,26519199.19,NULL,NULL
+2,21595874.35,26519199.19,-18.565134
+3,19719917.59,21595874.35,-8.686644
+4,15280009.98,19719917.59,-22.514839
